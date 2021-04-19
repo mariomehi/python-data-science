@@ -24,7 +24,10 @@ indicati nel seguito come “indicatori” dalla squadra S
 - calcolare il numero massimo di vittorie consecutive di S
 
 
+
 Foglio 2 Itertools
+
+
 Considerate nuovamente i dati delle partite dei campionati del mondo di calcio dal 1872 al 2020 
 disponibili gratuitamente sul sito Kaggle:
 https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
