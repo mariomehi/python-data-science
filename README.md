@@ -53,7 +53,7 @@ della World Cup.
 analizzare l’uso della memoria e tempi del p
 
 
-Foglio 3
+Foglio 3 NetworkX 
 
 Contesto 
 Consideriamo la formazione e relativa disposizione in campo della squadra del Genoa: 
