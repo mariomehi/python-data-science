@@ -6,4 +6,4 @@ Linguaggio Python
 <h3>Foglio 4: Neo4J query dataset</h3>
 <h3>Foglio 5: Data visualization</h3>
 <h3>Progetto Finale: Regressione di Poisson</h3>
-Predizioni di partite di calcio e analisi in base allo schema di gioco
+Predizioni di partite di calcio e analisi in base al modulo di gioco
